@@ -68,7 +68,8 @@ It does **not represent real-time or live banking data**.
 ---
 
 ## 📸 Preview
-(Add dashboard screenshots here)
+<img width="1254" height="692" alt="Page 1" src="https://github.com/user-attachments/assets/5ba919e7-1888-4b1a-967f-a8d61986809a" />
+
 
 ---
 
